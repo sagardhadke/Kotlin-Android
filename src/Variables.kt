@@ -13,8 +13,8 @@ fun main(){
 
     //Find any value using this steps
 
-    val intmin : Int = Int.MIN_VALUE
-    val intmax : Int = Int.MAX_VALUE
+   val intmin : Int = Int.MIN_VALUE
+   val intmax : Int = Int.MAX_VALUE
     println("Total value of Min is $intmin") //-2147483648
     println("Total value of Max is $intmax") //2147483647
 
@@ -22,10 +22,5 @@ fun main(){
     var myName = "Sagar Dhadke"
     myName = "Hey"
     println(myName)
-
-    var a = 5
-    var b = 2
-
-    print(a+b)
 
 }
