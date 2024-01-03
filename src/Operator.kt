@@ -1,5 +1,5 @@
 fun main(){
-
+//
 //    val a = 5
 //    val b = 3
 //
@@ -33,17 +33,32 @@ fun main(){
 //    println(y--) //6
 //    println(y)  //5
 //
-    //Relation Operator
+//    //Relation Operator
+//
+//    var num1 = 50
+//    var num2 = 60
+//
+//    println(num1>num2) //false
+//    println(num1<num2) //true
+//    println(num1>=num2) //false
+//    println(num1<=num2) //true
+//    println(num1!=num2) //true
+//    println(num1==num2) //false
 
-    var num1 = 50
-    var num2 = 60
+    // Logical Operator
 
-    println(num1>num2) //false
-    println(num1<num2) //true
-    println(num1>=num2) //false
-    println(num1<=num2) //true
-    println(num1!=num2) //true
-    println(num1==num2) //false
+    var gameOn = true
+    var userActive = false
+    var userInActive = true
+    if (gameOn && userActive){
+        println("Game And User Active")
+    }else if (gameOn || userInActive){
+        println("Game Working Fine User Offline")
+    }else if (!userInActive){
+        println("Game offline")
+    }else{
+        println("Game and user offline")
+    }
 
 
 }
