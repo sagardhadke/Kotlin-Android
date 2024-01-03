@@ -19,10 +19,10 @@ fun main(){
     //increment and decrement
     var x = 4
 
-    println(x++) //4
+    println(x++)    //4
     println(++x)    //6
     println(++x)    //7
-    println(x)  //7
+    println(x)       //7
 
     //Decrement
 
