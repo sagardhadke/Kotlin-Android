@@ -1,6 +1,6 @@
 fun main(){
 
-    if-else statements
+    // if-else statements
 
     var Bank_Name = "Sagar Bank Of India"
 
