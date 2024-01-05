@@ -33,17 +33,17 @@ fun main(){
 //    println(y--) //6
 //    println(y)  //5
 //
-//    //Relation Operator
-//
-//    var num1 = 50
-//    var num2 = 60
-//
-//    println(num1>num2) //false
-//    println(num1<num2) //true
-//    println(num1>=num2) //false
-//    println(num1<=num2) //true
-//    println(num1!=num2) //true
-//    println(num1==num2) //false
+    //Relation Operator
+
+    var num1 = 50
+    var num2 = 60
+
+    println(num1>num2) //false
+    println(num1<num2) //true
+    println(num1>=num2) //false
+    println(num1<=num2) //true
+    println(num1!=num2) //true
+    println(num1==num2) //false
 
     // Logical Operator
 
