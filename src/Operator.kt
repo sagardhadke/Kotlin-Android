@@ -17,21 +17,21 @@ fun main(){
 //    println("a % b = ${a%b}")
 //
 //    //increment and decrement
-//    var x = 4
-//
-//    println(x++)    //4
-//    println(++x)    //6
-//    println(++x)    //7
-//    println(x)       //7
+    var x = 4
+
+    println(x++)    //4
+    println(++x)    //6
+    println(++x)    //7
+    println(x)       //7
 //
 //    //Decrement
 //
-//    var y = 9
-//    println(y--) //9
-//    println(--y) //7
-//    println(--y) //6
-//    println(y--) //6
-//    println(y)  //5
+    var y = 9
+    println(y--) //9
+    println(--y) //7
+    println(--y) //6
+    println(y--) //6
+    println(y)  //5
 //
     //Relation Operator
 
