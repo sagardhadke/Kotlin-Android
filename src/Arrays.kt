@@ -5,5 +5,6 @@ fun main(){
 //    println(name[3])
     name[3] = "Apple"
     println(name[3])
+    println(name.size)
 
 }
