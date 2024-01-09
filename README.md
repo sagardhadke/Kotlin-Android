@@ -9,9 +9,14 @@
 
 - Variable
 - Loops
-- Operators (Arithmetic Operators,increment and decrement,Relation Operator,Logical Operator)
+- Operators (Arithmetic Operators, increment and decrement, Relation Operator, Logical Operator)
 - Arrays
-- Funcation
+- Function
 - Condition
-- OOps (Abstraction, Classes and Object,Encapsulation,Inheritance,Polymorphism)
+- Oops (Abstraction, Classes and Objects, Encapsulation, Inheritance, Polymorphism)
+
+# 💪 Projects Using Kotlin:
+
+* ⭐ Result Generator
+* ✨ Day Checker Using When
 
