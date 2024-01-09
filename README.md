@@ -4,3 +4,9 @@
 </p>
 
 <h1 align="center">Kotlin-Android: Complete Kotlin For Android Developer</h1>
+
+## Kotlin Topics
+
+- Variable
+- Loops
+- Operators (Arithmetic Operators,increment and decrement,Relation Operator,Logical Operator)
