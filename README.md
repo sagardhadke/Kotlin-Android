@@ -10,3 +10,8 @@
 - Variable
 - Loops
 - Operators (Arithmetic Operators,increment and decrement,Relation Operator,Logical Operator)
+- Arrays
+- Funcation
+- Condition
+- OOps (Abstraction, Classes and Object,Encapsulation,Inheritance,Polymorphism)
+
