@@ -40,6 +40,8 @@ Clone Using Git
 - Loops
 - Operators (Arithmetic Operators, increment and decrement, Relation Operator, Logical Operator)
 - Arrays
+- Enum
+- Null (nullability)
 - Function
 - Condition
 - Oops (Abstraction, Classes and Objects, Encapsulation, Inheritance, Polymorphism)
