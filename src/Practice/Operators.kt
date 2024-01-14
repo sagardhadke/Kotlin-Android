@@ -29,14 +29,35 @@ fun main(){
     * == equal and equal to
     * != not equal to*/
 
-    var x = 6
-    var y = 10
+//    var x = 6
+//    var y = 10
+//
+//    println(x<y)
+//    println(x>y)
+//    println(x<=y)
+//    println(x>=y)
+//    println(x==y)
+//    println(x!=y)
 
-    println(x<y)
-    println(x>y)
-    println(x<=y)
-    println(x>=y)
-    println(x==y)
-    println(x!=y)
+    //Logical Operator
+
+    /*
+    * && and
+    * || our
+    * != not*/
+
+    val internet = true
+    val wifi = false
+    val mobileData = false
+
+    if (internet && wifi || internet&&mobileData){
+        println("Internet is on")
+    }else if (internet!=true){
+        println("404 No Internet Connection.")
+    }else{
+        if (mobileData||wifi){
+            println("You can Browse the internet")
+        }
+    }
 
 }
