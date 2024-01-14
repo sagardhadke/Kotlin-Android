@@ -11,13 +11,13 @@ fun main(){
     * / division
     * % modules */
 
-//    var a = 5
-//    var b = 10
-//    println(a+b)
-//    println(a-b)
-//    println(a*b)
-//    println(a/b)
-//    println(a%b)
+    var a = 5
+    var b = 10
+    println(a+b)
+    println(a-b)
+    println(a*b)
+    println(a/b)
+    println(a%b)
 
     //Relational Operators
 
@@ -29,15 +29,15 @@ fun main(){
     * == equal and equal to
     * != not equal to*/
 
-//    var x = 6
-//    var y = 10
-//
-//    println(x<y)
-//    println(x>y)
-//    println(x<=y)
-//    println(x>=y)
-//    println(x==y)
-//    println(x!=y)
+    var x = 6
+    var y = 10
+
+    println(x<y)
+    println(x>y)
+    println(x<=y)
+    println(x>=y)
+    println(x==y)
+    println(x!=y)
 
     //Logical Operator
 
