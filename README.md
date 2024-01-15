@@ -63,11 +63,11 @@ If you have any feedback, please reach out to us at peaceunique2003@gmail.com
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sagardhadke_uc)
 
 
-<a href="https://www.buymeacoffee.com/sagardhadke" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-
 Donate Using Upi
 
 ```bash
    sagardhadke@upi
 ```
+
+
+<a href="https://www.buymeacoffee.com/sagardhadke" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
