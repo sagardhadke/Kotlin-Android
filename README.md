@@ -63,11 +63,22 @@ If you have any feedback, please reach out to us at peaceunique2003@gmail.com
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sagardhadke_uc)
 
 
-Donate Using Upi
+## 🤝 Contributing
 
-```bash
-   sagardhadke@upi
-```
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/sagardhadke/Kotlin-Android/issues).
 
+## ⭐ Show your support
 
-<a href="https://www.buymeacoffee.com/sagardhadke" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Give a ⭐️ if this project helped you!
+
+## Buy Me A Coffee
+
+<a href="https://www.buymeacoffee.com/sagardhadke" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## 🌐 Website
+
+Visit my website [here](https://sagardhadke.github.io/).
+
+## 📊 Repository Views
+
+![Views](https://profile-counter.glitch.me/Kotlin-Android/count.svg)
