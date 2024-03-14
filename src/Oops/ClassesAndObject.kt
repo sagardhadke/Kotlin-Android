@@ -1,13 +1,18 @@
 package Oops
-class MyClass{
+class Student{
 
-    fun firstClass(){
-        println("This is Object")
-    }
+    var name =  "Sagar"
+    var age = 19
+    var division = 'A'
+    var aadhar = 98765432108569
+
 }
 
 fun main(){
     //Classes and Object
-    val obj = MyClass()
-    obj.firstClass()
+    var getStudentDetails = Student()
+    println(getStudentDetails.name)
+    println(getStudentDetails.age)
+    println(getStudentDetails.division)
+    println(getStudentDetails.aadhar)
 }
